@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Halaman Utama</title>
+  <style>
+    body {
+      background-color: #e0f7fa;
+      text-align: center;
+      padding-top: 100px;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: #00796b;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 30px;
+      background-color: #00796b;
+      color: white;
+      font-size: 20px;
+      text-decoration: none;
+      border-radius: 10px;
+    }
+
+    a:hover {
+      background-color: #004d40;
+    }
+  </style>
+</head>
+<body>
+  <h1>Selamat Datang di Web Candra</h1>
+  <a href="daftar.html">Lihat Daftar Teman</a>
+</body>
+</html>
